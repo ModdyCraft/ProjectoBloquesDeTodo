@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BoneStairs"
+    },
+    "name": "bone_stairs_recipe",
+    "namespace": "mod"
+  }
+}

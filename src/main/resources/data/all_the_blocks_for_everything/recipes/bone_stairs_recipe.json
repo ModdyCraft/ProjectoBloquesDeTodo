@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone_block"
+    },
+    "3": {
+      "item": "minecraft:bone_block"
+    },
+    "4": {
+      "item": "minecraft:bone_block"
+    },
+    "6": {
+      "item": "minecraft:bone_block"
+    },
+    "7": {
+      "item": "minecraft:bone_block"
+    },
+    "8": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:bone_stairs",
+    "count": 4
+  }
+}

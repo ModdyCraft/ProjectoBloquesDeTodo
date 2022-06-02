@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "all_the_blocks_for_everything:blocks/dirt",
+    "top": "all_the_blocks_for_everything:blocks/grass_path_top",
+    "side": "all_the_blocks_for_everything:blocks/grass_block_side"
+  }
+}

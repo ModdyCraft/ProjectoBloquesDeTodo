@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DeadFireCoralPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DeadFireCoralPlanks"
+      },
+      {
+        "value": "CUSTOM:DeadFireCoralPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DeadFireCoralPlanks"
+      },
+      {
+        "value": "CUSTOM:DeadFireCoralPlanks"
+      },
+      {
+        "value": "CUSTOM:DeadFireCoralPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DeadFireCoralStairs"
+    },
+    "name": "dead_fire_coral_stairs_recipe",
+    "namespace": "mod"
+  }
+}

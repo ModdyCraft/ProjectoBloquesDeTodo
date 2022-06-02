@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "result": {
+    "item": "all_the_blocks_for_everything:bone_button",
+    "count": 1
+  }
+}

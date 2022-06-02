@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BRAIN_CORAL_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BrainCoralStairs"
+    },
+    "name": "brain_coral_stairs_recipe",
+    "namespace": "mod"
+  }
+}

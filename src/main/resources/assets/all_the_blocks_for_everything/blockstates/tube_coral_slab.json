@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "all_the_blocks_for_everything:block/tube_coral_slab"
+    },
+    "type=top": {
+      "model": "all_the_blocks_for_everything:block/tube_coral_slab_top"
+    },
+    "type=double": {
+      "model": "all_the_blocks_for_everything:block/tube_coral_slab_full"
+    }
+  }
+}

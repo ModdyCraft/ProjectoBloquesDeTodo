@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "3": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "4": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "6": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "7": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "8": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:dead_fire_coral_stairs",
+    "count": 4
+  }
+}

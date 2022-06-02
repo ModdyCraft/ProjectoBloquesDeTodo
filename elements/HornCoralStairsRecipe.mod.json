@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.HORN_CORAL_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.HORN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.HORN_CORAL_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.HORN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.HORN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.HORN_CORAL_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HornCoralStairs"
+    },
+    "name": "horn_coral_stairs_recipe",
+    "namespace": "mod"
+  }
+}

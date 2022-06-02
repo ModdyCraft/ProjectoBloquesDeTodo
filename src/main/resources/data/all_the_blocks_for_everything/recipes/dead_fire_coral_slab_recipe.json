@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "1": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    },
+    "2": {
+      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:dead_fire_coral_slab",
+    "count": 6
+  }
+}

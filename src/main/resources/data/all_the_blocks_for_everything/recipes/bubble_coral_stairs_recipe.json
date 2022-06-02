@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bubble_coral_block"
+    },
+    "3": {
+      "item": "minecraft:bubble_coral_block"
+    },
+    "4": {
+      "item": "minecraft:bubble_coral_block"
+    },
+    "6": {
+      "item": "minecraft:bubble_coral_block"
+    },
+    "7": {
+      "item": "minecraft:bubble_coral_block"
+    },
+    "8": {
+      "item": "minecraft:bubble_coral_block"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:bubble_coral_stairs",
+    "count": 4
+  }
+}

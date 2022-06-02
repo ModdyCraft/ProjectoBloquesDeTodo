@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/dead_bubble_coral_block",
+    "particle": "all_the_blocks_for_everything:blocks/dead_bubble_coral_block"
+  }
+}

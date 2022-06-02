@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/tube_coral_block"
+  }
+}

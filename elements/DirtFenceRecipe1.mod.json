@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DirtFence"
+    },
+    "name": "dirt_fence_recipe_1",
+    "namespace": "mod"
+  }
+}
