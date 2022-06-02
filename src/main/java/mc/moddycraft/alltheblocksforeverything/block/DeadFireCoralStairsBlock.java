@@ -42,9 +42,9 @@ public class DeadFireCoralStairsBlock extends AllTheBlocksForEverythingModElemen
 
 	public static class CustomBlock extends StairsBlock {
 		public CustomBlock() {
-			super(() -> new Block(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(3f, 2f).setLightLevel(s -> 0))
+			super(() -> new Block(Block.Properties.create(Material.CORAL).sound(SoundType.CORAL).hardnessAndResistance(3f, 10f).setLightLevel(s -> 0))
 					.getDefaultState(),
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(3f, 2f).setLightLevel(s -> 0));
+					Block.Properties.create(Material.CORAL).sound(SoundType.CORAL).hardnessAndResistance(3f, 10f).setLightLevel(s -> 0));
 			setRegistryName("dead_fire_coral_stairs");
 		}
 

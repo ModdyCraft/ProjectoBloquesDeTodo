@@ -35,12 +35,12 @@
     ],
     "name": "DeadFireCoral Button",
     "specialInfo": [],
-    "hardness": 2.0,
-    "resistance": 3.0,
+    "hardness": 3.0,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "REDSTONE"
     },
     "destroyTool": "Not specified",
     "customDrop": {
@@ -53,7 +53,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 0,
     "material": {
-      "value": "WOOD"
+      "value": "CORAL"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -78,7 +78,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "WOOD"
+      "value": "CORAL"
     },
     "breakSound": {
       "value": ""

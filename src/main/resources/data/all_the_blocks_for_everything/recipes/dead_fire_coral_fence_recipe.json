@@ -6,22 +6,22 @@
   ],
   "key": {
     "0": {
-      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+      "item": "minecraft:dead_fire_coral_block"
     },
     "1": {
       "item": "minecraft:stick"
     },
     "2": {
-      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+      "item": "minecraft:dead_fire_coral_block"
     },
     "3": {
-      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+      "item": "minecraft:dead_fire_coral_block"
     },
     "4": {
       "item": "minecraft:stick"
     },
     "5": {
-      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+      "item": "minecraft:dead_fire_coral_block"
     }
   },
   "result": {

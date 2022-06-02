@@ -14,7 +14,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.fluid.FluidState;
 import net.minecraft.block.material.Material;
-import net.minecraft.block.WoodButtonBlock;
+import net.minecraft.block.StoneButtonBlock;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
@@ -36,13 +36,12 @@ public class DeadFireCoralButtonBlock extends AllTheBlocksForEverythingModElemen
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items
-				.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.REDSTONE)).setRegistryName(block.getRegistryName()));
 	}
 
-	public static class CustomBlock extends WoodButtonBlock {
+	public static class CustomBlock extends StoneButtonBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 3f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.CORAL).sound(SoundType.CORAL).hardnessAndResistance(3f, 10f).setLightLevel(s -> 0));
 			setRegistryName("dead_fire_coral_button");
 		}
 

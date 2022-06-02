@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "all_the_blocks_for_everything:dead_fire_coral_planks"
+      "item": "minecraft:dead_fire_coral_block"
     }
   ],
   "result": {

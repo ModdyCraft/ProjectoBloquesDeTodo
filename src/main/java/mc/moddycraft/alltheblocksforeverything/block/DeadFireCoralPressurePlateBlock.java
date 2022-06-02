@@ -41,8 +41,8 @@ public class DeadFireCoralPressurePlateBlock extends AllTheBlocksForEverythingMo
 
 	public static class CustomBlock extends PressurePlateBlock {
 		public CustomBlock() {
-			super(Sensitivity.EVERYTHING,
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 3f).setLightLevel(s -> 0));
+			super(Sensitivity.MOBS,
+					Block.Properties.create(Material.CORAL).sound(SoundType.CORAL).hardnessAndResistance(3f, 10f).setLightLevel(s -> 0));
 			setRegistryName("dead_fire_coral_pressure_plate");
 		}
 
