@@ -30,7 +30,7 @@ public class DeadFireCoralPressurePlateBlock extends AllTheBlocksForEverythingMo
 	public static final Block block = null;
 
 	public DeadFireCoralPressurePlateBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 132);
+		super(instance, 63);
 	}
 
 	@Override

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "result": {
+    "item": "all_the_blocks_for_everything:basalt_button",
+    "count": 1
+  }
+}

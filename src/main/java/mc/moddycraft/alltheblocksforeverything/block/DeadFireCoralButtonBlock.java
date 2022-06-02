@@ -30,7 +30,7 @@ public class DeadFireCoralButtonBlock extends AllTheBlocksForEverythingModElemen
 	public static final Block block = null;
 
 	public DeadFireCoralButtonBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 133);
+		super(instance, 65);
 	}
 
 	@Override

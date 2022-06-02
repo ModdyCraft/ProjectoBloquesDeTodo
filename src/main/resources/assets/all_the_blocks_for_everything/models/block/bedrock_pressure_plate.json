@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/bedrock"
+  }
+}

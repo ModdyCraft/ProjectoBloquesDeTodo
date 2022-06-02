@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:basalt"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:basalt"
+    },
+    "3": {
+      "item": "minecraft:basalt"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:basalt_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "all_the_blocks_for_everything:blocks/dead_horn_coral_block",
+    "top": "all_the_blocks_for_everything:blocks/dead_horn_coral_block",
+    "side": "all_the_blocks_for_everything:blocks/dead_horn_coral_block"
+  }
+}

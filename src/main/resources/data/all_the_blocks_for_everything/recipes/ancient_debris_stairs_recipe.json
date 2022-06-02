@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ancient_debris"
+    },
+    "3": {
+      "item": "minecraft:ancient_debris"
+    },
+    "4": {
+      "item": "minecraft:ancient_debris"
+    },
+    "6": {
+      "item": "minecraft:ancient_debris"
+    },
+    "7": {
+      "item": "minecraft:ancient_debris"
+    },
+    "8": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:ancient_debris_stairs",
+    "count": 4
+  }
+}

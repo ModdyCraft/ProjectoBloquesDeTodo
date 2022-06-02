@@ -30,7 +30,7 @@ public class DeadFireCoralFenceGateBlock extends AllTheBlocksForEverythingModEle
 	public static final Block block = null;
 
 	public DeadFireCoralFenceGateBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 131);
+		super(instance, 61);
 	}
 
 	@Override

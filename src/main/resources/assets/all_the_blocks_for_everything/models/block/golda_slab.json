@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "all_the_blocks_for_everything:blocks/gold_block",
+    "top": "all_the_blocks_for_everything:blocks/gold_block",
+    "side": "all_the_blocks_for_everything:blocks/gold_block"
+  }
+}

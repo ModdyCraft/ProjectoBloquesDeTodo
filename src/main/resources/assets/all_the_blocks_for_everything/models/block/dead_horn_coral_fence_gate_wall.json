@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/dead_horn_coral_block"
+  }
+}

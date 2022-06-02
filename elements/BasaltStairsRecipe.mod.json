@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "Blocks.BASALT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BasaltStairs"
+    },
+    "name": "basalt_stairs_recipe",
+    "namespace": "mod"
+  }
+}

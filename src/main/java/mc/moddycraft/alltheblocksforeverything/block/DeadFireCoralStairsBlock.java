@@ -30,7 +30,7 @@ public class DeadFireCoralStairsBlock extends AllTheBlocksForEverythingModElemen
 	public static final Block block = null;
 
 	public DeadFireCoralStairsBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 128);
+		super(instance, 12);
 	}
 
 	@Override

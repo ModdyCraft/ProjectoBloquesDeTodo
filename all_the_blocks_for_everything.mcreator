@@ -19,7 +19,7 @@
     {
       "name": "DirtFence",
       "type": "block",
-      "sortid": 19,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_fence"
@@ -27,7 +27,7 @@
     {
       "name": "DirtFenceGate",
       "type": "block",
-      "sortid": 27,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_fence_gate"
@@ -35,7 +35,7 @@
     {
       "name": "DirtPressurePlate",
       "type": "block",
-      "sortid": 28,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_pressure_plate"
@@ -43,7 +43,7 @@
     {
       "name": "DirtButton",
       "type": "block",
-      "sortid": 29,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_button"
@@ -51,7 +51,7 @@
     {
       "name": "DirtStairsRecipe",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_stairs_recipe"
@@ -59,7 +59,7 @@
     {
       "name": "DirtSlabRecipe",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_slab_recipe"
@@ -67,7 +67,7 @@
     {
       "name": "DirtFenceRecipe",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_fence_recipe"
@@ -75,7 +75,7 @@
     {
       "name": "DirtFenceGateRecipe",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_fence_gate_recipe"
@@ -83,7 +83,7 @@
     {
       "name": "DirtPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_pressure_plate_recipe"
@@ -91,7 +91,7 @@
     {
       "name": "DirtButtonRecipe",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_button_recipe"
@@ -99,7 +99,7 @@
     {
       "name": "DirtStairsRecipe1",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_stairs_recipe_1"
@@ -123,7 +123,7 @@
     {
       "name": "DirtSlabRecipe1",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_slab_recipe_1"
@@ -131,7 +131,7 @@
     {
       "name": "DirtFenceRecipe1",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_fence_recipe_1"
@@ -139,7 +139,7 @@
     {
       "name": "DirtFenceGate1",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_fence_gate_1"
@@ -147,7 +147,7 @@
     {
       "name": "DirtPressureRecipe1",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_pressure_recipe_1"
@@ -155,7 +155,7 @@
     {
       "name": "DirtButtonRecipe1",
       "type": "recipe",
-      "sortid": 62,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dirt_button_recipe_1"
@@ -179,7 +179,7 @@
     {
       "name": "BoneFence",
       "type": "block",
-      "sortid": 20,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_fence"
@@ -187,7 +187,7 @@
     {
       "name": "BoneFenceGate",
       "type": "block",
-      "sortid": 30,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_fence_gate"
@@ -195,7 +195,7 @@
     {
       "name": "BonePressurePlate",
       "type": "block",
-      "sortid": 31,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_pressure_plate"
@@ -203,7 +203,7 @@
     {
       "name": "BoneButton",
       "type": "block",
-      "sortid": 32,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_button"
@@ -211,7 +211,7 @@
     {
       "name": "BoneStairsRecipe",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_stairs_recipe"
@@ -219,7 +219,7 @@
     {
       "name": "BoneSlabRecipe",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_slab_recipe"
@@ -227,7 +227,7 @@
     {
       "name": "BoneFenceRecipe",
       "type": "recipe",
-      "sortid": 65,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_fence_recipe"
@@ -235,7 +235,7 @@
     {
       "name": "BoneFenceGateRecipe",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_fence_gate_recipe"
@@ -243,7 +243,7 @@
     {
       "name": "BonePressurePlateRecipe",
       "type": "recipe",
-      "sortid": 67,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_pressure_plate_recipe"
@@ -251,7 +251,7 @@
     {
       "name": "BoneButtonRecipe",
       "type": "recipe",
-      "sortid": 68,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_button_recipe"
@@ -267,7 +267,7 @@
     {
       "name": "BrainCoralSlab",
       "type": "block",
-      "sortid": 8,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_slab"
@@ -275,7 +275,7 @@
     {
       "name": "BrainCoralFence",
       "type": "block",
-      "sortid": 21,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_fence"
@@ -283,7 +283,7 @@
     {
       "name": "BrainCoralFenceGate",
       "type": "block",
-      "sortid": 33,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_fence_gate"
@@ -291,7 +291,7 @@
     {
       "name": "BrainCoralPressurePlate",
       "type": "block",
-      "sortid": 34,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_pressure_plate"
@@ -299,7 +299,7 @@
     {
       "name": "BrainCoralButton",
       "type": "block",
-      "sortid": 35,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_button"
@@ -307,7 +307,7 @@
     {
       "name": "BrainCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 69,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_stairs_recipe"
@@ -315,7 +315,7 @@
     {
       "name": "BrainCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_slab_recipe"
@@ -323,7 +323,7 @@
     {
       "name": "BrainCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_fence_recipe"
@@ -331,7 +331,7 @@
     {
       "name": "BrainCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_fence_gate_recipe"
@@ -339,7 +339,7 @@
     {
       "name": "BrainCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_pressure_plate_recipe"
@@ -347,7 +347,7 @@
     {
       "name": "BrainCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brain_coral_button_recipe"
@@ -355,7 +355,7 @@
     {
       "name": "DeadBrainCoralStairs",
       "type": "block",
-      "sortid": 9,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_stairs"
@@ -371,7 +371,7 @@
     {
       "name": "DeadBrainCoralFence",
       "type": "block",
-      "sortid": 22,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_fence"
@@ -379,7 +379,7 @@
     {
       "name": "DeadBrainCoralFenceGate",
       "type": "block",
-      "sortid": 36,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_fence_gate"
@@ -387,7 +387,7 @@
     {
       "name": "DeadBrainCoralPressurePlate",
       "type": "block",
-      "sortid": 37,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_pressure_plate"
@@ -395,7 +395,7 @@
     {
       "name": "DeadBrainCoralButton",
       "type": "block",
-      "sortid": 38,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_button"
@@ -403,7 +403,7 @@
     {
       "name": "DeadBrainCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_stairs_recipe"
@@ -411,7 +411,7 @@
     {
       "name": "DeadBrainCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 76,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_slab_recipe"
@@ -419,7 +419,7 @@
     {
       "name": "DeadBrainCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_fence_recipe"
@@ -427,7 +427,7 @@
     {
       "name": "DeadBrainCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_fence_gate_recipe"
@@ -435,7 +435,7 @@
     {
       "name": "DeadBrainCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_pressure_plate_recipe"
@@ -443,7 +443,7 @@
     {
       "name": "DeadBrainCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 80,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_brain_coral_button_recipe"
@@ -459,7 +459,7 @@
     {
       "name": "FireCoralSlab",
       "type": "block",
-      "sortid": 12,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_slab"
@@ -467,7 +467,7 @@
     {
       "name": "FireCoralFence",
       "type": "block",
-      "sortid": 23,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_fence"
@@ -475,7 +475,7 @@
     {
       "name": "FireCoralFenceGate",
       "type": "block",
-      "sortid": 39,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_fence_gate"
@@ -483,7 +483,7 @@
     {
       "name": "FireCoralPressurePlate",
       "type": "block",
-      "sortid": 40,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_pressure_plate"
@@ -491,7 +491,7 @@
     {
       "name": "FireCoralButton",
       "type": "block",
-      "sortid": 41,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_button"
@@ -499,7 +499,7 @@
     {
       "name": "FireCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_stairs_recipe"
@@ -507,7 +507,7 @@
     {
       "name": "FireCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_slab_recipe"
@@ -515,7 +515,7 @@
     {
       "name": "FireCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_fence_recipe"
@@ -523,7 +523,7 @@
     {
       "name": "FireCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_fence_gate_recipe"
@@ -531,7 +531,7 @@
     {
       "name": "FireCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 85,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_pressure_plate_recipe"
@@ -539,7 +539,7 @@
     {
       "name": "FireCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_coral_button_recipe"
@@ -547,7 +547,7 @@
     {
       "name": "BubbleCoralStairs",
       "type": "block",
-      "sortid": 13,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_stairs"
@@ -555,7 +555,7 @@
     {
       "name": "BubbleCoralSlab",
       "type": "block",
-      "sortid": 14,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_slab"
@@ -563,7 +563,7 @@
     {
       "name": "BubbleCoralFence",
       "type": "block",
-      "sortid": 24,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_fence"
@@ -571,7 +571,7 @@
     {
       "name": "BubbleCoralFenceGate",
       "type": "block",
-      "sortid": 42,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_fence_gate"
@@ -579,7 +579,7 @@
     {
       "name": "BubbleCoralPressurePlate",
       "type": "block",
-      "sortid": 43,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_pressure_plate"
@@ -587,7 +587,7 @@
     {
       "name": "BubbleCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 87,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_stairs_recipe"
@@ -595,7 +595,7 @@
     {
       "name": "BubbleCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_slab_recipe"
@@ -603,7 +603,7 @@
     {
       "name": "BubbleCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_fence_recipe"
@@ -611,7 +611,7 @@
     {
       "name": "BubbleCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 90,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_fence_gate_recipe"
@@ -619,7 +619,7 @@
     {
       "name": "BubbleCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_pressure_plate_recipe"
@@ -627,7 +627,7 @@
     {
       "name": "BubbleCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_button_recipe"
@@ -635,7 +635,7 @@
     {
       "name": "HornCoralStairs",
       "type": "block",
-      "sortid": 15,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_stairs"
@@ -643,7 +643,7 @@
     {
       "name": "HornCoralSlab",
       "type": "block",
-      "sortid": 16,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_slab"
@@ -651,7 +651,7 @@
     {
       "name": "HornCoralFence",
       "type": "block",
-      "sortid": 25,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_fence"
@@ -659,7 +659,7 @@
     {
       "name": "HornCoralFenceGate",
       "type": "block",
-      "sortid": 45,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_fence_gate"
@@ -667,7 +667,7 @@
     {
       "name": "HornCoralPressurePlate",
       "type": "block",
-      "sortid": 46,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_pressure_plate"
@@ -675,7 +675,7 @@
     {
       "name": "HornCoralButton",
       "type": "block",
-      "sortid": 47,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_button"
@@ -683,7 +683,7 @@
     {
       "name": "HornCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_stairs_recipe"
@@ -691,7 +691,7 @@
     {
       "name": "HornCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 94,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_slab_recipe"
@@ -699,7 +699,7 @@
     {
       "name": "HornCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 95,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_fence_recipe"
@@ -707,7 +707,7 @@
     {
       "name": "HornCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 96,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_fence_gate_recipe"
@@ -715,7 +715,7 @@
     {
       "name": "HornCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_pressure_plate_recipe"
@@ -723,7 +723,7 @@
     {
       "name": "HornCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "horn_coral_button_recipe"
@@ -731,7 +731,7 @@
     {
       "name": "BubbleCoralButton",
       "type": "block",
-      "sortid": 44,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bubble_coral_button"
@@ -739,7 +739,7 @@
     {
       "name": "Tube_CoralStairs",
       "type": "block",
-      "sortid": 17,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_stairs"
@@ -747,7 +747,7 @@
     {
       "name": "Tube_CoralSlab",
       "type": "block",
-      "sortid": 18,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_slab"
@@ -755,7 +755,7 @@
     {
       "name": "Tube_CoralFence",
       "type": "block",
-      "sortid": 26,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_fence"
@@ -763,7 +763,7 @@
     {
       "name": "Tube_CoralFenceGate",
       "type": "block",
-      "sortid": 48,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_fence_gate"
@@ -771,7 +771,7 @@
     {
       "name": "Tube_CoralPressurePlate",
       "type": "block",
-      "sortid": 49,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_pressure_plate"
@@ -779,7 +779,7 @@
     {
       "name": "Tube_CoralButton",
       "type": "block",
-      "sortid": 50,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_button"
@@ -787,7 +787,7 @@
     {
       "name": "Tube_CoralStairsRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_stairs_recipe"
@@ -795,7 +795,7 @@
     {
       "name": "Tube_CoralSlabRecipe",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_slab_recipe"
@@ -803,7 +803,7 @@
     {
       "name": "Tube_CoralFenceRecipe",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_fence_recipe"
@@ -811,7 +811,7 @@
     {
       "name": "Tube_CoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_fence_gate_recipe"
@@ -819,7 +819,7 @@
     {
       "name": "Tube_CoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_pressure_plate_recipe"
@@ -827,7 +827,7 @@
     {
       "name": "Tube_CoralButtonRecipe",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tube_coral_button_recipe"
@@ -835,7 +835,7 @@
     {
       "name": "DeadBubbleCoralStairs",
       "type": "block",
-      "sortid": 109,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_stairs"
@@ -843,7 +843,7 @@
     {
       "name": "DeadBubbleCoralSlab",
       "type": "block",
-      "sortid": 110,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_slab"
@@ -851,7 +851,7 @@
     {
       "name": "DeadBubbleCoralFence",
       "type": "block",
-      "sortid": 111,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_fence"
@@ -859,7 +859,7 @@
     {
       "name": "DeadBubbleCoralFenceGate",
       "type": "block",
-      "sortid": 112,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_fence_gate"
@@ -867,7 +867,7 @@
     {
       "name": "DeadBubbleCoralPressurePlate",
       "type": "block",
-      "sortid": 113,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_pressure_plate"
@@ -875,7 +875,7 @@
     {
       "name": "DeadBubbleCoralButton",
       "type": "block",
-      "sortid": 114,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_button"
@@ -883,7 +883,7 @@
     {
       "name": "DeadBubbleCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_stairs_recipe"
@@ -891,7 +891,7 @@
     {
       "name": "DeadBubbleCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_slab_recipe"
@@ -899,7 +899,7 @@
     {
       "name": "DeadBubbleCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_fence_recipe"
@@ -907,7 +907,7 @@
     {
       "name": "DeadBubbleCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 121,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_fence_gate_recipe"
@@ -915,7 +915,7 @@
     {
       "name": "DeadBubbleCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_pressure_plate_recipe"
@@ -923,7 +923,7 @@
     {
       "name": "DeadBubbleCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 123,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_bubble_coral_button_recipe"
@@ -931,7 +931,7 @@
     {
       "name": "DeadFireCoralStairs",
       "type": "block",
-      "sortid": 128,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_stairs"
@@ -939,7 +939,7 @@
     {
       "name": "DeadFireCoralSlab",
       "type": "block",
-      "sortid": 129,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_slab"
@@ -947,7 +947,7 @@
     {
       "name": "DeadFireCoralFence",
       "type": "block",
-      "sortid": 130,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_fence"
@@ -955,7 +955,7 @@
     {
       "name": "DeadFireCoralFenceGate",
       "type": "block",
-      "sortid": 131,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_fence_gate"
@@ -963,7 +963,7 @@
     {
       "name": "DeadFireCoralPressurePlate",
       "type": "block",
-      "sortid": 132,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_pressure_plate"
@@ -971,7 +971,7 @@
     {
       "name": "DeadFireCoralButton",
       "type": "block",
-      "sortid": 133,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_button"
@@ -979,7 +979,7 @@
     {
       "name": "DeadFireCoralStairsRecipe",
       "type": "recipe",
-      "sortid": 137,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_stairs_recipe"
@@ -987,7 +987,7 @@
     {
       "name": "DeadFireCoralSlabRecipe",
       "type": "recipe",
-      "sortid": 138,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_slab_recipe"
@@ -995,7 +995,7 @@
     {
       "name": "DeadFireCoralFenceRecipe",
       "type": "recipe",
-      "sortid": 139,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_fence_recipe"
@@ -1003,7 +1003,7 @@
     {
       "name": "DeadFireCoralFenceGateRecipe",
       "type": "recipe",
-      "sortid": 140,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_fence_gate_recipe"
@@ -1011,7 +1011,7 @@
     {
       "name": "DeadFireCoralPressurePlateRecipe",
       "type": "recipe",
-      "sortid": 141,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_pressure_plate_recipe"
@@ -1019,78 +1019,1013 @@
     {
       "name": "DeadFireCoralButtonRecipe",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dead_fire_coral_button_recipe"
+    },
+    {
+      "name": "DeadTubeCoralStairs",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_stairs"
+    },
+    {
+      "name": "DeadTubeCoralSlab",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_slab"
+    },
+    {
+      "name": "DeadTubeCoralFence",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_fence"
+    },
+    {
+      "name": "DeadTubeCoralFenceGate",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_fence_gate"
+    },
+    {
+      "name": "DeadTubeCoralPressurePlate",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_pressure_plate"
+    },
+    {
+      "name": "DeadTubeCoralButton",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_button"
+    },
+    {
+      "name": "DeadTubeCoralStairsRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_stairs_recipe"
+    },
+    {
+      "name": "DeadTubeCoralSlabRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_slab_recipe"
+    },
+    {
+      "name": "DeadTubeCoralFenceRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_fence_recipe"
+    },
+    {
+      "name": "DeadTubeCoralFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_fence_gate_recipe"
+    },
+    {
+      "name": "DeadTubeCoralPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_pressure_plate_recipe"
+    },
+    {
+      "name": "DeadTubeCoralButtonRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_tube_coral_button_recipe"
+    },
+    {
+      "name": "DiamondaStairs",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_stairs"
+    },
+    {
+      "name": "DiamondaSlab",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_slab"
+    },
+    {
+      "name": "DiamondaFence",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_fence"
+    },
+    {
+      "name": "DiamondaFenceGate",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_fence_gate"
+    },
+    {
+      "name": "DiamondaPressurePlate",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_pressure_plate"
+    },
+    {
+      "name": "DiamondaButton",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_button"
+    },
+    {
+      "name": "DiamondaStairsRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_stairs_recipe"
+    },
+    {
+      "name": "DiamondaSlabRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_slab_recipe"
+    },
+    {
+      "name": "DiamondaFenceRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_fence_recipe"
+    },
+    {
+      "name": "DiamondaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_fence_gate_recipe"
+    },
+    {
+      "name": "DiamondaPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_pressure_plate_recipe"
+    },
+    {
+      "name": "DiamondaButtonRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonda_button_recipe"
+    },
+    {
+      "name": "EmeraldaStairs",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_stairs"
+    },
+    {
+      "name": "EmeraldaSlab",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_slab"
+    },
+    {
+      "name": "EmeraldaFence",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_fence"
+    },
+    {
+      "name": "EmeraldaFenceGate",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_fence_gate"
+    },
+    {
+      "name": "EmeraldaPressurePlate",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_pressure_plate"
+    },
+    {
+      "name": "EmeraldaButton",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_button"
+    },
+    {
+      "name": "EmeraldaStairsRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_stairs_recipe"
+    },
+    {
+      "name": "EmeraldaSlabRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_slab_recipe"
+    },
+    {
+      "name": "EmeraldaFenceRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_fence_recipe"
+    },
+    {
+      "name": "EmeraldaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_fence_gate_recipe"
+    },
+    {
+      "name": "EmeraldaPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_pressure_plate_recipe"
+    },
+    {
+      "name": "EmeraldaButtonRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeralda_button_recipe"
+    },
+    {
+      "name": "GoldaStairs",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_stairs"
+    },
+    {
+      "name": "GoldaSlab",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_slab"
+    },
+    {
+      "name": "GoldaFence",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_fence"
+    },
+    {
+      "name": "GoldaFenceGate",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_fence_gate"
+    },
+    {
+      "name": "GoldaButton",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_button"
+    },
+    {
+      "name": "GoldaStairsRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_stairs_recipe"
+    },
+    {
+      "name": "GoldaSlabRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_slab_recipe"
+    },
+    {
+      "name": "GoldaFenceRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_fence_recipe"
+    },
+    {
+      "name": "GoldaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_fence_gate_recipe"
+    },
+    {
+      "name": "GoldaButtonRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golda_button_recipe"
+    },
+    {
+      "name": "DeadHornCoralStairs",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_stairs"
+    },
+    {
+      "name": "DeadHornCoralSlab",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_slab"
+    },
+    {
+      "name": "DeadHornCoralFence",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_fence"
+    },
+    {
+      "name": "DeadHornCoralFenceGate",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_fence_gate"
+    },
+    {
+      "name": "DeadHornCoralPressurePlate",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_pressure_plate"
+    },
+    {
+      "name": "DeadHornCoralButton",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_button"
+    },
+    {
+      "name": "DeadHornCoralStairsRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_stairs_recipe"
+    },
+    {
+      "name": "DeadHornCoralSlabRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_slab_recipe"
+    },
+    {
+      "name": "DeadHornCoralFenceRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_fence_recipe"
+    },
+    {
+      "name": "DeadHornCoralFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_fence_gate_recipe"
+    },
+    {
+      "name": "DeadHornCoralPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_pressure_plate_recipe"
+    },
+    {
+      "name": "DeadHornCoralButtonRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dead_horn_coral_button_recipe"
+    },
+    {
+      "name": "IronaStairs",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_stairs"
+    },
+    {
+      "name": "IronaSlab",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_slab"
+    },
+    {
+      "name": "IronaFence",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_fence"
+    },
+    {
+      "name": "IronaFenceGate",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_fence_gate"
+    },
+    {
+      "name": "IronaButton",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_button"
+    },
+    {
+      "name": "IronaStairsRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_stairs_recipe"
+    },
+    {
+      "name": "IronaSlabRecipe",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_slab_recipe"
+    },
+    {
+      "name": "IronaFenceRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_fence_recipe"
+    },
+    {
+      "name": "IronaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_fence_gate_recipe"
+    },
+    {
+      "name": "IronaButtonRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irona_button_recipe"
+    },
+    {
+      "name": "AncientDebrisStairs",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_stairs"
+    },
+    {
+      "name": "AncientDebrisSlab",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_slab"
+    },
+    {
+      "name": "AncientDebrisFence",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_fence"
+    },
+    {
+      "name": "AncientDebrisFenceGate",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_fence_gate"
+    },
+    {
+      "name": "AncientDebrisPressurePlate",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_pressure_plate"
+    },
+    {
+      "name": "AncientDebrisButton",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_button"
+    },
+    {
+      "name": "AncientDebrisStairsRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_stairs_recipe"
+    },
+    {
+      "name": "AncientDebrisSlabRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_slab_recipe"
+    },
+    {
+      "name": "AncientDebrisFenceRecipe",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_fence_recipe"
+    },
+    {
+      "name": "AncientDebrisFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_fence_gate_recipe"
+    },
+    {
+      "name": "AncientDebrisPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_pressure_plate_recipe"
+    },
+    {
+      "name": "AncientDebrisButtonRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_debris_button_recipe"
+    },
+    {
+      "name": "AndesiteFenceGate",
+      "type": "block",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_fence_gate"
+    },
+    {
+      "name": "AndesitePressurePlate",
+      "type": "block",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_pressure_plate"
+    },
+    {
+      "name": "AndesiteButton",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_button"
+    },
+    {
+      "name": "AndesiteFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_fence_gate_recipe"
+    },
+    {
+      "name": "AndesitePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_pressure_plate_recipe"
+    },
+    {
+      "name": "AndesiteButtonRecipe",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_button_recipe"
+    },
+    {
+      "name": "BasaltStairs",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_stairs"
+    },
+    {
+      "name": "BasaltSlab",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_slab"
+    },
+    {
+      "name": "BasaltFence",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_fence"
+    },
+    {
+      "name": "BasaltFenceGate",
+      "type": "block",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_fence_gate"
+    },
+    {
+      "name": "BasaltPressurePlate",
+      "type": "block",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_pressure_plate"
+    },
+    {
+      "name": "BasaltButton",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_button"
+    },
+    {
+      "name": "BasaltStairsRecipe",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_stairs_recipe"
+    },
+    {
+      "name": "BasaltSlabRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_slab_recipe"
+    },
+    {
+      "name": "BasaltFenceRecipe",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_fence_recipe"
+    },
+    {
+      "name": "BasaltFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_fence_gate_recipe"
+    },
+    {
+      "name": "BasaltPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_pressure_plate_recipe"
+    },
+    {
+      "name": "BasaltButtonRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basalt_button_recipe"
+    },
+    {
+      "name": "BedrockStairs",
+      "type": "block",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_stairs"
+    },
+    {
+      "name": "BedrockSlab",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_slab"
+    },
+    {
+      "name": "BedrockFence",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_fence"
+    },
+    {
+      "name": "BedrockFenceGate",
+      "type": "block",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_fence_gate"
+    },
+    {
+      "name": "BedrockPressurePlate",
+      "type": "block",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_pressure_plate"
+    },
+    {
+      "name": "BedrockButton",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_button"
+    },
+    {
+      "name": "BedrockStairsRecipe",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_stairs_recipe"
+    },
+    {
+      "name": "BedrockSlabRecipe",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_slab_recipe"
+    },
+    {
+      "name": "BedrockFenceRecipe",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_fence_recipe"
+    },
+    {
+      "name": "BedrockFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_fence_gate_recipe"
+    },
+    {
+      "name": "BedrockPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_pressure_plate_recipe"
+    },
+    {
+      "name": "BedrockButtonRecipe",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_button_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.all_the_blocks_for_everything.brain_coral_button": "Brain Coral Button",
-      "block.all_the_blocks_for_everything.bone_stairs": "Bone Stairs",
-      "block.all_the_blocks_for_everything.dead_bubble_coral_slab": "Dead Bubble Coral Slab",
+      "block.all_the_blocks_for_everything.emeralda_stairs": "Emerald Stairs",
+      "block.all_the_blocks_for_everything.dead_horn_coral_fence_gate": "Dead Horn Coral Fence Gate",
+      "block.all_the_blocks_for_everything.dead_tube_coral_stairs": "Dead Tube Coral Stairs",
+      "block.all_the_blocks_for_everything.basalt_button": "Basalt Button",
+      "block.all_the_blocks_for_everything.emeralda_pressure_plate": "Emerald Pressure Plate",
       "block.all_the_blocks_for_everything.brain_coral_slab": "Brain Coral Slab",
-      "block.all_the_blocks_for_everything.fire_coral_pressure_plate": "Fire Coral Pressure Plate",
-      "block.all_the_blocks_for_everything.bubble_coral_stairs": "Bubble Coral Stairs",
+      "block.all_the_blocks_for_everything.diamonda_stairs": "Diamond Stairs",
+      "block.all_the_blocks_for_everything.golda_fence_gate": "Gold Fence Gate",
       "block.all_the_blocks_for_everything.tube_coral_fence_gate": "Tube Coral Fence Gate",
+      "block.all_the_blocks_for_everything.bubble_coral_stairs": "Bubble Coral Stairs",
+      "block.all_the_blocks_for_everything.andesite_button": "Andesite Button",
+      "block.all_the_blocks_for_everything.dead_tube_coral_fence_gate": "Dead Tube Coral Fence Gate",
+      "block.all_the_blocks_for_everything.dead_tube_coral_slab": "Dead Tube Coral Slab",
+      "block.all_the_blocks_for_everything.dead_horn_coral_button": "Dead Horn Coral Button",
       "block.all_the_blocks_for_everything.dead_bubble_coral_button": "Dead Bubble Coral Button",
-      "block.all_the_blocks_for_everything.dirt_slab": "Grass Slab",
-      "block.all_the_blocks_for_everything.fire_coral_button": "Fire Coral Button",
-      "block.all_the_blocks_for_everything.brain_coral_fence_gate": "Brain Coral Fence Gate",
+      "block.all_the_blocks_for_everything.diamonda_slab": "Diamond Slab",
+      "block.all_the_blocks_for_everything.emeralda_fence_gate": "Emerald Fence Gate",
+      "block.all_the_blocks_for_everything.dead_horn_coral_pressure_plate": "Dead Horn Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.dead_horn_coral_fence": "Dead Horn Coral Fence",
       "block.all_the_blocks_for_everything.bone_fence": "Bone Fence",
-      "block.all_the_blocks_for_everything.dirt_slab_1": "Dirt Slab",
-      "block.all_the_blocks_for_everything.tube_coral_slab": "Tube Coral Slab",
-      "block.all_the_blocks_for_everything.dead_bubble_coral_pressure_plate": "Dead Bubble Coral Pressure Plate",
-      "block.all_the_blocks_for_everything.bone_button": "Bone Button",
+      "block.all_the_blocks_for_everything.bedrock_slab": "Bedrock Slab",
+      "block.all_the_blocks_for_everything.emeralda_fence": "Emerald Fence",
+      "block.all_the_blocks_for_everything.dead_tube_coral_fence": "Dead Tube Coral Fence",
+      "block.all_the_blocks_for_everything.basalt_stairs": "Basalt Stairs",
+      "block.all_the_blocks_for_everything.ancient_debris_fence": "Ancient Debris Fence",
       "block.all_the_blocks_for_everything.horn_coral_fence": "HornCoral Fence",
-      "block.all_the_blocks_for_everything.dead_fire_coral_slab": "DeadFireCoral Slab",
+      "block.all_the_blocks_for_everything.dead_fire_coral_slab": "Dead Fire Coral Slab",
       "block.all_the_blocks_for_everything.fire_coral_fence_gate": "Fire Coral Fence Gate",
       "block.all_the_blocks_for_everything.dead_bubble_coral_fence_gate": "Dead Bubble Coral Fence Gate",
       "block.all_the_blocks_for_everything.tube_coral_fence": "Tube Coral Fence",
       "block.all_the_blocks_for_everything.bone_slab": "Bone Slab",
-      "block.all_the_blocks_for_everything.tube_coral_button": "Tube Coral Button",
       "block.all_the_blocks_for_everything.dead_brain_coral_fence": "Dead Brain Coral Fence",
       "block.all_the_blocks_for_everything.horn_coral_fence_gate": "HornCoral Fence Gate",
+      "block.all_the_blocks_for_everything.irona_fence_gate": "Iron Fence Gate",
       "block.all_the_blocks_for_everything.bone_pressure_plate": "Bone Pressure Plate",
       "block.all_the_blocks_for_everything.horn_coral_button": "HornCoral Button",
       "block.all_the_blocks_for_everything.dead_brain_coral_button": "Dead Brain Coral Button",
-      "block.all_the_blocks_for_everything.bubble_coral_fence_gate": "Bubble Coral Fence Gate",
-      "block.all_the_blocks_for_everything.dirt_fence": "Dirt Fence",
       "block.all_the_blocks_for_everything.horn_coral_stairs": "HornCoral Stairs",
       "block.all_the_blocks_for_everything.dirt_pressure_plate": "Dirt Pressure Plate",
+      "block.all_the_blocks_for_everything.irona_slab": "Iron Slab",
+      "block.all_the_blocks_for_everything.dead_fire_coral_button": "Dead Fire Coral Button",
+      "block.all_the_blocks_for_everything.dead_fire_coral_fence_gate": "Dead Fire Coral Fence Gate",
+      "block.all_the_blocks_for_everything.diamonda_fence": "Diamond Fence",
+      "block.all_the_blocks_for_everything.bubble_coral_button": "Bubble Coral Button",
+      "block.all_the_blocks_for_everything.irona_fence": "Iron Fence",
+      "block.all_the_blocks_for_everything.dead_brain_coral_fence_gate": "Dead Brain Coral Fence Gate",
+      "block.all_the_blocks_for_everything.dead_brain_coral_slab": "Dead Brain Coral Slab",
+      "block.all_the_blocks_for_everything.golda_slab": "Gold Slab",
+      "block.all_the_blocks_for_everything.dead_tube_coral_button": "Dead Tube Coral Button",
+      "block.all_the_blocks_for_everything.fire_coral_stairs": "Fire Coral Stairs",
+      "block.all_the_blocks_for_everything.emeralda_button": "Emerald Button",
+      "block.all_the_blocks_for_everything.ancient_debris_slab": "Ancient Debris Slab",
+      "block.all_the_blocks_for_everything.dirt_button": "Dirt Button",
+      "block.all_the_blocks_for_everything.golda_fence": "Gold Fence",
+      "block.all_the_blocks_for_everything.bone_fence_gate": "Bone Fence Gate",
+      "block.all_the_blocks_for_everything.dead_horn_coral_slab": "Dead Horn Coral Slab",
+      "block.all_the_blocks_for_everything.bubble_coral_fence": "Bubble Coral Fence",
+      "block.all_the_blocks_for_everything.andesite_pressure_plate": "Andesite Pressure Plate",
+      "block.all_the_blocks_for_everything.bubble_coral_pressure_plate": "Bubble Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.dead_fire_coral_stairs": "Dead Fire Coral Stairs",
+      "block.all_the_blocks_for_everything.dirt_stairs": "Grass Stairs",
+      "block.all_the_blocks_for_everything.ancient_debris_stairs": "Ancient Debris Stairs",
+      "block.all_the_blocks_for_everything.brain_coral_stairs": "Brain Coral Stairs",
+      "block.all_the_blocks_for_everything.ancient_debris_button": "Ancient Debris Button",
+      "block.all_the_blocks_for_everything.fire_coral_fence": "Fire Coral Fence",
+      "block.all_the_blocks_for_everything.irona_button": "Iron Button",
+      "block.all_the_blocks_for_everything.brain_coral_button": "Brain Coral Button",
+      "block.all_the_blocks_for_everything.bone_stairs": "Bone Stairs",
+      "block.all_the_blocks_for_everything.dead_bubble_coral_slab": "Dead Bubble Coral Slab",
+      "block.all_the_blocks_for_everything.basalt_pressure_plate": "Basalt Pressure Plate",
+      "block.all_the_blocks_for_everything.fire_coral_pressure_plate": "Fire Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.bedrock_fence": "Bedrock Fence",
+      "block.all_the_blocks_for_everything.basalt_slab": "Basalt Slab",
+      "block.all_the_blocks_for_everything.basalt_fence_gate": "Basalt Fence Gate",
+      "block.all_the_blocks_for_everything.dirt_slab": "Grass Slab",
+      "block.all_the_blocks_for_everything.fire_coral_button": "Fire Coral Button",
+      "block.all_the_blocks_for_everything.diamonda_pressure_plate": "Diamond Pressure Plate",
+      "block.all_the_blocks_for_everything.brain_coral_fence_gate": "Brain Coral Fence Gate",
+      "block.all_the_blocks_for_everything.dirt_slab_1": "Dirt Slab",
+      "block.all_the_blocks_for_everything.tube_coral_slab": "Tube Coral Slab",
+      "block.all_the_blocks_for_everything.dead_bubble_coral_pressure_plate": "Dead Bubble Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.bone_button": "Bone Button",
+      "block.all_the_blocks_for_everything.tube_coral_button": "Tube Coral Button",
+      "block.all_the_blocks_for_everything.ancient_debris_pressure_plate": "Ancient Debris Pressure Plate",
+      "block.all_the_blocks_for_everything.ancient_debris_fence_gate": "Ancient Debris Fence Gate",
+      "block.all_the_blocks_for_everything.bubble_coral_fence_gate": "Bubble Coral Fence Gate",
+      "block.all_the_blocks_for_everything.bedrock_stairs": "Bedrock Stairs",
+      "block.all_the_blocks_for_everything.dirt_fence": "Dirt Fence",
       "block.all_the_blocks_for_everything.dead_brain_coral_stairs": "Dead Brain Coral Stairs",
+      "block.all_the_blocks_for_everything.bedrock_fence_gate": "Bedrock Fence Gate",
+      "block.all_the_blocks_for_everything.bedrock_button": "Bedrock Button",
       "block.all_the_blocks_for_everything.tube_coral_pressure_plate": "Tube Coral Pressure Plate",
       "block.all_the_blocks_for_everything.bubble_coral_slab": "Bubble Coral Slab",
       "block.all_the_blocks_for_everything.tube_coral_stairs": "Tube Coral Stairs",
-      "block.all_the_blocks_for_everything.dead_fire_coral_button": "DeadFireCoral Button",
       "block.all_the_blocks_for_everything.dead_bubble_coral_fence": "Dead Bubble Coral Fence",
-      "block.all_the_blocks_for_everything.dead_fire_coral_fence_gate": "DeadFireCoral Fence Gate",
+      "block.all_the_blocks_for_everything.basalt_fence": "Basalt Fence",
+      "block.all_the_blocks_for_everything.diamonda_button": "Diamond Button",
       "block.all_the_blocks_for_everything.dirt_stairs_1": "Dirt Stairs",
       "block.all_the_blocks_for_everything.horn_coral_slab": "HornCoral Slab",
-      "block.all_the_blocks_for_everything.bubble_coral_button": "Bubble Coral Button",
-      "block.all_the_blocks_for_everything.dead_fire_coral_pressure_plate": "DeadFireCoral Pressure Plate",
+      "block.all_the_blocks_for_everything.dead_horn_coral_stairs": "Dead Horn Coral Stairs",
+      "block.all_the_blocks_for_everything.bedrock_pressure_plate": "Bedrock Pressure Plate",
+      "block.all_the_blocks_for_everything.dead_fire_coral_pressure_plate": "Dead Fire Coral Pressure Plate",
       "block.all_the_blocks_for_everything.brain_coral_fence": "Brain Coral Fence",
-      "block.all_the_blocks_for_everything.dead_brain_coral_fence_gate": "Dead Brain Coral Fence Gate",
       "block.all_the_blocks_for_everything.dirt_fence_gate": "Dirt Fence Gate",
-      "block.all_the_blocks_for_everything.dead_brain_coral_slab": "Dead Brain Coral Slab",
-      "block.all_the_blocks_for_everything.fire_coral_stairs": "Fire Coral Stairs",
+      "block.all_the_blocks_for_everything.irona_stairs": "Iron Stairs",
+      "block.all_the_blocks_for_everything.diamonda_fence_gate": "Diamond Fence Gate",
       "block.all_the_blocks_for_everything.dead_bubble_coral_stairs": "Dead Bubble Coral Stairs",
       "block.all_the_blocks_for_everything.horn_coral_pressure_plate": "HornCoral Pressure Plate",
+      "block.all_the_blocks_for_everything.golda_button": "Gold Button",
       "block.all_the_blocks_for_everything.fire_coral_slab": "Fire Coral Slab",
-      "block.all_the_blocks_for_everything.dirt_button": "Dirt Button",
-      "block.all_the_blocks_for_everything.bone_fence_gate": "Bone Fence Gate",
+      "block.all_the_blocks_for_everything.golda_stairs": "Gold Stairs",
       "block.all_the_blocks_for_everything.brain_coral_pressure_plate": "Brain Coral Pressure Plate",
-      "block.all_the_blocks_for_everything.bubble_coral_fence": "Bubble Coral Fence",
-      "block.all_the_blocks_for_everything.bubble_coral_pressure_plate": "Bubble Coral Pressure Plate",
       "block.all_the_blocks_for_everything.dead_brain_coral_pressure_plate": "Dead Brain Coral Pressure Plate",
-      "block.all_the_blocks_for_everything.dead_fire_coral_stairs": "DeadFireCoral Stairs",
-      "block.all_the_blocks_for_everything.dirt_stairs": "Grass Stairs",
-      "block.all_the_blocks_for_everything.brain_coral_stairs": "Brain Coral Stairs",
-      "block.all_the_blocks_for_everything.dead_fire_coral_fence": "DeadFireCoral Fence",
-      "block.all_the_blocks_for_everything.fire_coral_fence": "Fire Coral Fence"
+      "block.all_the_blocks_for_everything.andesite_fence_gate": "Andesite Fence Gate",
+      "block.all_the_blocks_for_everything.emeralda_slab": "Emerald Slab",
+      "block.all_the_blocks_for_everything.dead_fire_coral_fence": "Dead Fire Coral Fence",
+      "block.all_the_blocks_for_everything.dead_tube_coral_pressure_plate": "Dead Tube Coral Pressure Plate"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "all_the_blocks_for_everything:block/irona_slab"
+    },
+    "type=top": {
+      "model": "all_the_blocks_for_everything:block/irona_slab_top"
+    },
+    "type=double": {
+      "model": "all_the_blocks_for_everything:block/irona_slab_full"
+    }
+  }
+}

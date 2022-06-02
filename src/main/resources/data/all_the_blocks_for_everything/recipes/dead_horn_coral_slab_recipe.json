@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dead_horn_coral_block"
+    },
+    "1": {
+      "item": "minecraft:dead_horn_coral_block"
+    },
+    "2": {
+      "item": "minecraft:dead_horn_coral_block"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:dead_horn_coral_slab",
+    "count": 6
+  }
+}
