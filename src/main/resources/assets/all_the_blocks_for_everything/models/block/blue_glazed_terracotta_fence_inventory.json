@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/blue_glazed_terracotta",
+    "particle": "all_the_blocks_for_everything:blocks/blue_glazed_terracotta"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueGlazedTerracottaStairs"
+    },
+    "name": "blue_glazed_terracotta_stairs_recipe",
+    "namespace": "mod"
+  }
+}

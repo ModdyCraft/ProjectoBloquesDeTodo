@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueIceStairs"
+    },
+    "name": "blue_ice_stairs_recipe",
+    "namespace": "mod"
+  }
+}

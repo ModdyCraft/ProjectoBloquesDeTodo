@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "all_the_blocks_for_everything:blocks/blue_glazed_terracotta",
+    "top": "all_the_blocks_for_everything:blocks/blue_glazed_terracotta",
+    "side": "all_the_blocks_for_everything:blocks/blue_glazed_terracotta"
+  }
+}

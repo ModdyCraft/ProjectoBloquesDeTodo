@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_ice"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:blue_ice"
+    },
+    "3": {
+      "item": "minecraft:blue_ice"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:blue_ice_fence",
+    "count": 3
+  }
+}
