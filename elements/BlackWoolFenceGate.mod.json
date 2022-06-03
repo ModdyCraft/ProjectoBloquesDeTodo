@@ -35,8 +35,8 @@
     ],
     "name": "Black Wool Fence Gate",
     "specialInfo": [],
-    "hardness": 2.0,
-    "resistance": 3.0,
+    "hardness": 0.8,
+    "resistance": 4.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -53,7 +53,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 0,
     "material": {
-      "value": "WOOD"
+      "value": "CLOTH"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -78,7 +78,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "WOOD"
+      "value": "CLOTH"
     },
     "breakSound": {
       "value": ""

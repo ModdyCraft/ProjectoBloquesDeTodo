@@ -40,9 +40,9 @@ public class BlackWoolStairsBlock extends AllTheBlocksForEverythingModElements.M
 
 	public static class CustomBlock extends StairsBlock {
 		public CustomBlock() {
-			super(() -> new Block(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(3f, 2f).setLightLevel(s -> 0))
+			super(() -> new Block(Block.Properties.create(Material.WOOL).sound(SoundType.CLOTH).hardnessAndResistance(0.8f, 4f).setLightLevel(s -> 0))
 					.getDefaultState(),
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(3f, 2f).setLightLevel(s -> 0));
+					Block.Properties.create(Material.WOOL).sound(SoundType.CLOTH).hardnessAndResistance(0.8f, 4f).setLightLevel(s -> 0));
 			setRegistryName("black_wool_stairs");
 		}
 

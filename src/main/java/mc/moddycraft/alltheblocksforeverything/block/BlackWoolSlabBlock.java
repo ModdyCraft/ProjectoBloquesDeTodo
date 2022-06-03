@@ -41,7 +41,7 @@ public class BlackWoolSlabBlock extends AllTheBlocksForEverythingModElements.Mod
 
 	public static class CustomBlock extends SlabBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 3f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.WOOL).sound(SoundType.CLOTH).hardnessAndResistance(0.8f, 4f).setLightLevel(s -> 0));
 			setRegistryName("black_wool_slab");
 		}
 

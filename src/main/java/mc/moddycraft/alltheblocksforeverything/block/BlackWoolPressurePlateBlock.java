@@ -39,8 +39,8 @@ public class BlackWoolPressurePlateBlock extends AllTheBlocksForEverythingModEle
 
 	public static class CustomBlock extends PressurePlateBlock {
 		public CustomBlock() {
-			super(Sensitivity.EVERYTHING,
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 3f).setLightLevel(s -> 0));
+			super(Sensitivity.MOBS,
+					Block.Properties.create(Material.WOOL).sound(SoundType.CLOTH).hardnessAndResistance(0.8f, 4f).setLightLevel(s -> 0));
 			setRegistryName("black_wool_pressure_plate");
 		}
 

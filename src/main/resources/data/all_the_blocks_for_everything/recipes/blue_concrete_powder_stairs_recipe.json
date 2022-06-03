@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_concrete_powder"
+    },
+    "3": {
+      "item": "minecraft:blue_concrete_powder"
+    },
+    "4": {
+      "item": "minecraft:blue_concrete_powder"
+    },
+    "6": {
+      "item": "minecraft:blue_concrete_powder"
+    },
+    "7": {
+      "item": "minecraft:blue_concrete_powder"
+    },
+    "8": {
+      "item": "minecraft:blue_concrete_powder"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:blue_concrete_powder_stairs",
+    "count": 4
+  }
+}

@@ -75,5 +75,17 @@ public class CactusFenceBlock extends AllTheBlocksForEverythingModElements.ModEl
 			CactusStairsEntityCollidesInTheBlockProcedure.executeProcedure(Stream.of(new AbstractMap.SimpleEntry<>("entity", entity))
 					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
 		}
+
+		@Override
+		public void onEntityWalk(World world, BlockPos pos, Entity entity) {
+			super.onEntityWalk(world, pos, entity);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			BlockState blockstate = world.getBlockState(pos);
+
+			CactusStairsEntityCollidesInTheBlockProcedure.executeProcedure(Stream.of(new AbstractMap.SimpleEntry<>("entity", entity))
+					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
+		}
 	}
 }

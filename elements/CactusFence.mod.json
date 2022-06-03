@@ -125,6 +125,9 @@
     "onEntityCollides": {
       "name": "CactusStairsEntityCollidesInTheBlock"
     },
+    "onEntityWalksOn": {
+      "name": "CactusStairsEntityCollidesInTheBlock"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [

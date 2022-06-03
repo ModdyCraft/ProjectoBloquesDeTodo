@@ -44,8 +44,7 @@ public class CactusButtonBlock extends AllTheBlocksForEverythingModElements.ModE
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items
-				.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.REDSTONE)).setRegistryName(block.getRegistryName()));
 	}
 
 	public static class CustomBlock extends StoneButtonBlock {
