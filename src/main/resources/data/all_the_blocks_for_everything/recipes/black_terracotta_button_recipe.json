@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_terracotta"
+    }
+  ],
+  "result": {
+    "item": "all_the_blocks_for_everything:black_terracotta_button",
+    "count": 1
+  }
+}

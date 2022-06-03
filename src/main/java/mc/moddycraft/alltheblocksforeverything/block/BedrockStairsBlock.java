@@ -3,9 +3,6 @@ package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.IBlockReader;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
@@ -40,15 +37,11 @@ public class BedrockStairsBlock extends AllTheBlocksForEverythingModElements.Mod
 
 	public static class CustomBlock extends StairsBlock {
 		public CustomBlock() {
-			super(() -> new Block(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(0f, 0f).setLightLevel(s -> 0))
+			super(() -> new Block(
+					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(-1, 3600000).setLightLevel(s -> 0))
 					.getDefaultState(),
-					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(0f, 0f).setLightLevel(s -> 0));
+					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(-1, 3600000).setLightLevel(s -> 0));
 			setRegistryName("bedrock_stairs");
-		}
-
-		@Override
-		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
 		}
 
 		@Override

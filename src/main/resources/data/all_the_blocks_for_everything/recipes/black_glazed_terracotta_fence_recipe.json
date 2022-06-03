@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_glazed_terracotta"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:black_glazed_terracotta"
+    },
+    "3": {
+      "item": "minecraft:black_glazed_terracotta"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:black_glazed_terracotta"
+    }
+  },
+  "result": {
+    "item": "all_the_blocks_for_everything:black_glazed_terracotta_fence",
+    "count": 3
+  }
+}

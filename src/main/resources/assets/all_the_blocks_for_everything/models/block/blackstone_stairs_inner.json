@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "all_the_blocks_for_everything:blocks/blackstone_top",
+    "top": "all_the_blocks_for_everything:blocks/blackstone_top",
+    "side": "all_the_blocks_for_everything:blocks/blackstone"
+  }
+}

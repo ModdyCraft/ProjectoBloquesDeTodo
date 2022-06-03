@@ -2,7 +2,6 @@
 package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
-import net.minecraftforge.common.ToolType;
 
 import net.minecraft.world.IBlockReader;
 import net.minecraft.util.math.BlockPos;
@@ -29,7 +28,7 @@ public class BoneButtonBlock extends AllTheBlocksForEverythingModElements.ModEle
 	public static final Block block = null;
 
 	public BoneButtonBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 32);
+		super(instance, 53);
 	}
 
 	@Override
@@ -40,14 +39,13 @@ public class BoneButtonBlock extends AllTheBlocksForEverythingModElements.ModEle
 
 	public static class CustomBlock extends StoneButtonBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.CLAY).sound(SoundType.BONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-					.harvestTool(ToolType.PICKAXE).setRequiresTool());
+			super(Block.Properties.create(Material.CLAY).sound(SoundType.BONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 			setRegistryName("bone_button");
 		}
 
 		@Override
 		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
+			return 25;
 		}
 
 		@Override

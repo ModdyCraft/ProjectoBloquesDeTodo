@@ -3,9 +3,6 @@ package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.IBlockReader;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
@@ -28,7 +25,7 @@ public class DeadBubbleCoralButtonBlock extends AllTheBlocksForEverythingModElem
 	public static final Block block = null;
 
 	public DeadBubbleCoralButtonBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 114);
+		super(instance, 71);
 	}
 
 	@Override
@@ -41,11 +38,6 @@ public class DeadBubbleCoralButtonBlock extends AllTheBlocksForEverythingModElem
 		public CustomBlock() {
 			super(Block.Properties.create(Material.CORAL).sound(SoundType.CORAL).hardnessAndResistance(3f, 10f).setLightLevel(s -> 0));
 			setRegistryName("dead_bubble_coral_button");
-		}
-
-		@Override
-		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
 		}
 
 		@Override

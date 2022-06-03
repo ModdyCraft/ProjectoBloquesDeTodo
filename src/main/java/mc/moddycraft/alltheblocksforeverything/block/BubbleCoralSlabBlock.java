@@ -3,10 +3,8 @@ package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IBlockDisplayReader;
 import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
 import net.minecraft.state.properties.SlabType;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
@@ -31,7 +29,7 @@ public class BubbleCoralSlabBlock extends AllTheBlocksForEverythingModElements.M
 	public static final Block block = null;
 
 	public BubbleCoralSlabBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 14);
+		super(instance, 17);
 	}
 
 	@Override
@@ -50,11 +48,6 @@ public class BubbleCoralSlabBlock extends AllTheBlocksForEverythingModElements.M
 		@Override
 		public boolean shouldDisplayFluidOverlay(BlockState state, IBlockDisplayReader world, BlockPos pos, FluidState fluidstate) {
 			return true;
-		}
-
-		@Override
-		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
 		}
 
 		@Override

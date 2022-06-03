@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#15"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlackConcretePowderStairs"
+    },
+    "name": "black_concrete_powder_stairs_recipe",
+    "namespace": "mod"
+  }
+}

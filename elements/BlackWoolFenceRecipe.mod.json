@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.WOOL#15"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "Blocks.WOOL#15"
+      },
+      {
+        "value": "Blocks.WOOL#15"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "Blocks.WOOL#15"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlackWoolFence"
+    },
+    "name": "black_wool_fence_recipe",
+    "namespace": "mod"
+  }
+}

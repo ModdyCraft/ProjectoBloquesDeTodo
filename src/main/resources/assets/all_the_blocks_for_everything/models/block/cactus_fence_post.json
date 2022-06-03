@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/cactus_side",
+    "particle": "all_the_blocks_for_everything:blocks/cactus_side"
+  }
+}

@@ -3,7 +3,6 @@ package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IBlockDisplayReader;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.Direction;
@@ -31,7 +30,7 @@ public class Tube_CoralFenceBlock extends AllTheBlocksForEverythingModElements.M
 	public static final Block block = null;
 
 	public Tube_CoralFenceBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 26);
+		super(instance, 43);
 	}
 
 	@Override
@@ -56,11 +55,6 @@ public class Tube_CoralFenceBlock extends AllTheBlocksForEverythingModElements.M
 		@Override
 		public boolean shouldDisplayFluidOverlay(BlockState state, IBlockDisplayReader world, BlockPos pos, FluidState fluidstate) {
 			return true;
-		}
-
-		@Override
-		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
 		}
 
 		@Override

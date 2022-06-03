@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "all_the_blocks_for_everything:blocks/blackstone"
+  }
+}

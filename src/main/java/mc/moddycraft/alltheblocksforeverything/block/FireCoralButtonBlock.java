@@ -3,10 +3,8 @@ package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IBlockDisplayReader;
 import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
@@ -30,7 +28,7 @@ public class FireCoralButtonBlock extends AllTheBlocksForEverythingModElements.M
 	public static final Block block = null;
 
 	public FireCoralButtonBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 41);
+		super(instance, 64);
 	}
 
 	@Override
@@ -48,11 +46,6 @@ public class FireCoralButtonBlock extends AllTheBlocksForEverythingModElements.M
 		@Override
 		public boolean shouldDisplayFluidOverlay(BlockState state, IBlockDisplayReader world, BlockPos pos, FluidState fluidstate) {
 			return true;
-		}
-
-		@Override
-		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
 		}
 
 		@Override

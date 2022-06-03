@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="Creative Commons Attribution-NonCommercial 3.0"
 
 [[mods]]
 modId="all_the_blocks_for_everything"
@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="All the blocks for everything"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="USER, MCreator"
+authors="ModdyCraft, MCreator"
 
 [[dependencies.all_the_blocks_for_everything]]
     modId="minecraft"

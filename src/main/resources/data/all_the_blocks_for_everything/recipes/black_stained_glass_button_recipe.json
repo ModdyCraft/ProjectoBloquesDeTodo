@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_stained_glass"
+    }
+  ],
+  "result": {
+    "item": "all_the_blocks_for_everything:black_stained_glass_button",
+    "count": 1
+  }
+}

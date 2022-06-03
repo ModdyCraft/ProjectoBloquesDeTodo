@@ -1903,6 +1903,790 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrock_button_recipe"
+    },
+    {
+      "name": "BlackstoneStairs",
+      "type": "block",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_stairs"
+    },
+    {
+      "name": "BlackstoneSlab",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_slab"
+    },
+    {
+      "name": "BlackstoneFence",
+      "type": "block",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_fence"
+    },
+    {
+      "name": "BlackstoneFenceGate",
+      "type": "block",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_fence_gate"
+    },
+    {
+      "name": "BlackstonePressurePlate",
+      "type": "block",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_pressure_plate"
+    },
+    {
+      "name": "BlackstoneButton",
+      "type": "block",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_button"
+    },
+    {
+      "name": "BlackstoneStairsRecipe",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_stairs_recipe"
+    },
+    {
+      "name": "BlackstoneSlabRecipe",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_slab_recipe"
+    },
+    {
+      "name": "BlackstoneFenceRecipe",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_fence_recipe"
+    },
+    {
+      "name": "BlackstoneFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_fence_gate_recipe"
+    },
+    {
+      "name": "BlackstonePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackstoneButtonRecipe",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_button_recipe"
+    },
+    {
+      "name": "BlackConcreteStairs",
+      "type": "block",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_stairs"
+    },
+    {
+      "name": "BlackConcreteSlab",
+      "type": "block",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_slab"
+    },
+    {
+      "name": "BlackConcreteFence",
+      "type": "block",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_fence"
+    },
+    {
+      "name": "BlackConcreteFenceGate",
+      "type": "block",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_fence_gate"
+    },
+    {
+      "name": "BlackConcretePressurePlate",
+      "type": "block",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_pressure_plate"
+    },
+    {
+      "name": "BlackConcreteButton",
+      "type": "block",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_button"
+    },
+    {
+      "name": "BlackConcreteStairsRecipe",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_stairs_recipe"
+    },
+    {
+      "name": "BlackConcreteSlabRecipe",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_slab_recipe"
+    },
+    {
+      "name": "BlackConcreteFenceRecipe",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_fence_recipe"
+    },
+    {
+      "name": "BlackConcreteFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_fence_gate_recipe"
+    },
+    {
+      "name": "BlackConcretePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackConcreteButtonRecipe",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_button_recipe"
+    },
+    {
+      "name": "BlackConcretePowderStairs",
+      "type": "block",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_stairs"
+    },
+    {
+      "name": "BlackConcretePowderSlab",
+      "type": "block",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_slab"
+    },
+    {
+      "name": "BlackConcretePowderFence",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_fence"
+    },
+    {
+      "name": "BlackConcretePowderFenceGate",
+      "type": "block",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_fence_gate"
+    },
+    {
+      "name": "BlackConcretePowderPressurePlate",
+      "type": "block",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_pressure_plate"
+    },
+    {
+      "name": "BlackConcretePowderButton",
+      "type": "block",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_button"
+    },
+    {
+      "name": "BlackConcretePowderStairsRecipe",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_stairs_recipe"
+    },
+    {
+      "name": "BlackConcretePowderSlabRecipe",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_slab_recipe"
+    },
+    {
+      "name": "BlackConcretePowderFenceRecipe",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_fence_recipe"
+    },
+    {
+      "name": "BlackConcretePowderFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_fence_gate_recipe"
+    },
+    {
+      "name": "BlackConcretePowderPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackConcretePowderButtonRecipe",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_concrete_powder_button_recipe"
+    },
+    {
+      "name": "BlackGlazedTerracottaStairs",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_stairs"
+    },
+    {
+      "name": "BlackGlazedTerracottaSlab",
+      "type": "block",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_slab"
+    },
+    {
+      "name": "BlackGlazedTerracottaFence",
+      "type": "block",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_fence"
+    },
+    {
+      "name": "BlackGlazedTerracottaFenceGate",
+      "type": "block",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_fence_gate"
+    },
+    {
+      "name": "BlackGlazedTerracottaPressurePlate",
+      "type": "block",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_pressure_plate"
+    },
+    {
+      "name": "BlackGlazedTerracottaButton",
+      "type": "block",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_button"
+    },
+    {
+      "name": "BlackGlazedTerracottaStairsRecipe",
+      "type": "recipe",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_stairs_recipe"
+    },
+    {
+      "name": "BlackGlazedTerracottaSlabRecipe",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_slab_recipe"
+    },
+    {
+      "name": "BlackGlazedTerracottaFenceRecipe",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_fence_recipe"
+    },
+    {
+      "name": "BlackGlazedTerracottaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_fence_gate_recipe"
+    },
+    {
+      "name": "BlackGlazedTerracottaPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackGlazedTerracottaButtonRecipe",
+      "type": "recipe",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_glazed_terracotta_button_recipe"
+    },
+    {
+      "name": "BlackStainedGlassStairs",
+      "type": "block",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_stairs"
+    },
+    {
+      "name": "BlackStainedGlassSlab",
+      "type": "block",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_slab"
+    },
+    {
+      "name": "BlackStainedGlassFence",
+      "type": "block",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_fence"
+    },
+    {
+      "name": "BlackStainedGlassFenceGate",
+      "type": "block",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_fence_gate"
+    },
+    {
+      "name": "BlackStainedGlassPressurePlate",
+      "type": "block",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_pressure_plate"
+    },
+    {
+      "name": "BlackStainedGlassButton",
+      "type": "block",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_button"
+    },
+    {
+      "name": "BlackStainedGlassStairsRecipe",
+      "type": "recipe",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_stairs_recipe"
+    },
+    {
+      "name": "BlackStainedGlassSlabRecipe",
+      "type": "recipe",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_slab_recipe"
+    },
+    {
+      "name": "BlackStainedGlassFenceRecipe",
+      "type": "recipe",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_fence_recipe"
+    },
+    {
+      "name": "BlackStainedGlassFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_fence_gate_recipe"
+    },
+    {
+      "name": "BlackStainedGlassPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackStainedGlassButtonRecipe",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stained_glass_button_recipe"
+    },
+    {
+      "name": "CactusStairs",
+      "type": "block",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_stairs"
+    },
+    {
+      "name": "CactusSlab",
+      "type": "block",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_slab"
+    },
+    {
+      "name": "CactusFence",
+      "type": "block",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_fence"
+    },
+    {
+      "name": "CactusFenceGate",
+      "type": "block",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_fence_gate"
+    },
+    {
+      "name": "CactusPressurePlate",
+      "type": "block",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_pressure_plate"
+    },
+    {
+      "name": "CactusButton",
+      "type": "block",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_button"
+    },
+    {
+      "name": "CactusStairsRecipe",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_stairs_recipe"
+    },
+    {
+      "name": "CactusSlabRecipe",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_slab_recipe"
+    },
+    {
+      "name": "CactusFenceRecipe",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_fence_recipe"
+    },
+    {
+      "name": "CactusFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_fence_gate_recipe"
+    },
+    {
+      "name": "CactusPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_pressure_plate_recipe"
+    },
+    {
+      "name": "CactusButtonRecipe",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_button_recipe"
+    },
+    {
+      "name": "CactusStairsEntityCollidesInTheBlock",
+      "type": "procedure",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cactus_stairs_entity_collides_in_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlackTerracottaStairs",
+      "type": "block",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_stairs"
+    },
+    {
+      "name": "BlackTerracottaSlab",
+      "type": "block",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_slab"
+    },
+    {
+      "name": "BlackTerracottaFence",
+      "type": "block",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_fence"
+    },
+    {
+      "name": "BlackTerracottaFenceGate",
+      "type": "block",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_fence_gate"
+    },
+    {
+      "name": "BlackTerracottaPressurePlate",
+      "type": "block",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_pressure_plate"
+    },
+    {
+      "name": "BlackTerracottaButton",
+      "type": "block",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_button"
+    },
+    {
+      "name": "BlackTerracottaStairsRecipe",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_stairs_recipe"
+    },
+    {
+      "name": "BlackTerracottaSlabRecipe",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_slab_recipe"
+    },
+    {
+      "name": "BlackTerracottaFenceRecipe",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_fence_recipe"
+    },
+    {
+      "name": "BlackTerracottaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_fence_gate_recipe"
+    },
+    {
+      "name": "BlackTerracottaPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackTerracottaButtonRecipe",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_terracotta_button_recipe"
+    },
+    {
+      "name": "BlackWoolStairs",
+      "type": "block",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_stairs"
+    },
+    {
+      "name": "BlackWoolSlab",
+      "type": "block",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_slab"
+    },
+    {
+      "name": "BlackWoolFence",
+      "type": "block",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_fence"
+    },
+    {
+      "name": "BlackWoolFenceGate",
+      "type": "block",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_fence_gate"
+    },
+    {
+      "name": "BlackWoolPressurePlate",
+      "type": "block",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_pressure_plate"
+    },
+    {
+      "name": "BlackWoolButton",
+      "type": "block",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_button"
+    },
+    {
+      "name": "BlackWoolStairsRecipe",
+      "type": "recipe",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_stairs_recipe"
+    },
+    {
+      "name": "BlackWoolSlabRecipe",
+      "type": "recipe",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_slab_recipe"
+    },
+    {
+      "name": "BlackWoolFenceRecipe",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_fence_recipe"
+    },
+    {
+      "name": "BlackWoolFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_fence_gate_recipe"
+    },
+    {
+      "name": "BlackWoolPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_pressure_plate_recipe"
+    },
+    {
+      "name": "BlackWoolButtonRecipe",
+      "type": "recipe",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_button_recipe"
     }
   ],
   "variable_elements": [],
@@ -1910,30 +2694,38 @@
   "language_map": {
     "en_us": {
       "block.all_the_blocks_for_everything.emeralda_stairs": "Emerald Stairs",
+      "block.all_the_blocks_for_everything.cactus_fence_gate": "Cactus Fence Gate",
       "block.all_the_blocks_for_everything.dead_horn_coral_fence_gate": "Dead Horn Coral Fence Gate",
       "block.all_the_blocks_for_everything.dead_tube_coral_stairs": "Dead Tube Coral Stairs",
       "block.all_the_blocks_for_everything.basalt_button": "Basalt Button",
+      "block.all_the_blocks_for_everything.blackstone_button": "Blackstone Button",
       "block.all_the_blocks_for_everything.emeralda_pressure_plate": "Emerald Pressure Plate",
       "block.all_the_blocks_for_everything.brain_coral_slab": "Brain Coral Slab",
       "block.all_the_blocks_for_everything.diamonda_stairs": "Diamond Stairs",
       "block.all_the_blocks_for_everything.golda_fence_gate": "Gold Fence Gate",
       "block.all_the_blocks_for_everything.tube_coral_fence_gate": "Tube Coral Fence Gate",
       "block.all_the_blocks_for_everything.bubble_coral_stairs": "Bubble Coral Stairs",
+      "block.all_the_blocks_for_everything.black_concrete_powder_slab": "Black Concrete Powder Slab",
       "block.all_the_blocks_for_everything.andesite_button": "Andesite Button",
       "block.all_the_blocks_for_everything.dead_tube_coral_fence_gate": "Dead Tube Coral Fence Gate",
       "block.all_the_blocks_for_everything.dead_tube_coral_slab": "Dead Tube Coral Slab",
       "block.all_the_blocks_for_everything.dead_horn_coral_button": "Dead Horn Coral Button",
       "block.all_the_blocks_for_everything.dead_bubble_coral_button": "Dead Bubble Coral Button",
+      "block.all_the_blocks_for_everything.black_terracotta_pressure_plate": "Black Terracotta Pressure Plate",
       "block.all_the_blocks_for_everything.diamonda_slab": "Diamond Slab",
       "block.all_the_blocks_for_everything.emeralda_fence_gate": "Emerald Fence Gate",
       "block.all_the_blocks_for_everything.dead_horn_coral_pressure_plate": "Dead Horn Coral Pressure Plate",
       "block.all_the_blocks_for_everything.dead_horn_coral_fence": "Dead Horn Coral Fence",
       "block.all_the_blocks_for_everything.bone_fence": "Bone Fence",
+      "block.all_the_blocks_for_everything.black_wool_stairs": "Black Wool Stairs",
       "block.all_the_blocks_for_everything.bedrock_slab": "Bedrock Slab",
+      "block.all_the_blocks_for_everything.cactus_fence": "Cactus Fence",
       "block.all_the_blocks_for_everything.emeralda_fence": "Emerald Fence",
       "block.all_the_blocks_for_everything.dead_tube_coral_fence": "Dead Tube Coral Fence",
+      "block.all_the_blocks_for_everything.black_concrete_powder_fence_gate": "Black Concrete Powder Fence Gate",
       "block.all_the_blocks_for_everything.basalt_stairs": "Basalt Stairs",
       "block.all_the_blocks_for_everything.ancient_debris_fence": "Ancient Debris Fence",
+      "block.all_the_blocks_for_everything.blackstone_stairs": "Blackstone Stairs",
       "block.all_the_blocks_for_everything.horn_coral_fence": "HornCoral Fence",
       "block.all_the_blocks_for_everything.dead_fire_coral_slab": "Dead Fire Coral Slab",
       "block.all_the_blocks_for_everything.fire_coral_fence_gate": "Fire Coral Fence Gate",
@@ -1944,22 +2736,35 @@
       "block.all_the_blocks_for_everything.horn_coral_fence_gate": "HornCoral Fence Gate",
       "block.all_the_blocks_for_everything.irona_fence_gate": "Iron Fence Gate",
       "block.all_the_blocks_for_everything.bone_pressure_plate": "Bone Pressure Plate",
+      "block.all_the_blocks_for_everything.blackstone_slab": "Blackstone Slab",
       "block.all_the_blocks_for_everything.horn_coral_button": "HornCoral Button",
       "block.all_the_blocks_for_everything.dead_brain_coral_button": "Dead Brain Coral Button",
+      "block.all_the_blocks_for_everything.black_concrete_pressure_plate": "Black Concrete Pressure Plate",
       "block.all_the_blocks_for_everything.horn_coral_stairs": "HornCoral Stairs",
       "block.all_the_blocks_for_everything.dirt_pressure_plate": "Dirt Pressure Plate",
       "block.all_the_blocks_for_everything.irona_slab": "Iron Slab",
+      "block.all_the_blocks_for_everything.black_stained_glass_slab": "Black Stained Glass Slab",
+      "block.all_the_blocks_for_everything.black_concrete_fence": "Black Concrete Fence",
       "block.all_the_blocks_for_everything.dead_fire_coral_button": "Dead Fire Coral Button",
+      "block.all_the_blocks_for_everything.black_concrete_powder_fence": "Black Concrete Powder Fence",
+      "block.all_the_blocks_for_everything.cactus_pressure_plate": "Cactus Pressure Plate",
       "block.all_the_blocks_for_everything.dead_fire_coral_fence_gate": "Dead Fire Coral Fence Gate",
       "block.all_the_blocks_for_everything.diamonda_fence": "Diamond Fence",
       "block.all_the_blocks_for_everything.bubble_coral_button": "Bubble Coral Button",
+      "block.all_the_blocks_for_everything.black_concrete_fence_gate": "Black Concrete Fence Gate",
+      "block.all_the_blocks_for_everything.black_terracotta_fence_gate": "Black Terracotta Fence Gate",
       "block.all_the_blocks_for_everything.irona_fence": "Iron Fence",
       "block.all_the_blocks_for_everything.dead_brain_coral_fence_gate": "Dead Brain Coral Fence Gate",
+      "block.all_the_blocks_for_everything.black_terracotta_fence": "Black Terracotta Fence",
       "block.all_the_blocks_for_everything.dead_brain_coral_slab": "Dead Brain Coral Slab",
       "block.all_the_blocks_for_everything.golda_slab": "Gold Slab",
       "block.all_the_blocks_for_everything.dead_tube_coral_button": "Dead Tube Coral Button",
+      "block.all_the_blocks_for_everything.cactus_button": "Cactus Button",
       "block.all_the_blocks_for_everything.fire_coral_stairs": "Fire Coral Stairs",
       "block.all_the_blocks_for_everything.emeralda_button": "Emerald Button",
+      "block.all_the_blocks_for_everything.black_glazed_terracotta_pressure_plate": "Black Glazed Terracotta Pressure Plate",
+      "block.all_the_blocks_for_everything.cactus_stairs": "Cactus Stairs",
+      "block.all_the_blocks_for_everything.black_concrete_powder_stairs": "Black Concrete Powder Stairs",
       "block.all_the_blocks_for_everything.ancient_debris_slab": "Ancient Debris Slab",
       "block.all_the_blocks_for_everything.dirt_button": "Dirt Button",
       "block.all_the_blocks_for_everything.golda_fence": "Gold Fence",
@@ -1971,27 +2776,41 @@
       "block.all_the_blocks_for_everything.dead_fire_coral_stairs": "Dead Fire Coral Stairs",
       "block.all_the_blocks_for_everything.dirt_stairs": "Grass Stairs",
       "block.all_the_blocks_for_everything.ancient_debris_stairs": "Ancient Debris Stairs",
+      "block.all_the_blocks_for_everything.black_concrete_powder_button": "Black Concrete Powder Button",
       "block.all_the_blocks_for_everything.brain_coral_stairs": "Brain Coral Stairs",
       "block.all_the_blocks_for_everything.ancient_debris_button": "Ancient Debris Button",
       "block.all_the_blocks_for_everything.fire_coral_fence": "Fire Coral Fence",
+      "block.all_the_blocks_for_everything.black_concrete_button": "Black Concrete Button",
+      "block.all_the_blocks_for_everything.black_concrete_stairs": "Black Concrete Stairs",
+      "block.all_the_blocks_for_everything.black_stained_glass_pressure_plate": "Black Stained Glass Pressure Plate",
       "block.all_the_blocks_for_everything.irona_button": "Iron Button",
       "block.all_the_blocks_for_everything.brain_coral_button": "Brain Coral Button",
       "block.all_the_blocks_for_everything.bone_stairs": "Bone Stairs",
       "block.all_the_blocks_for_everything.dead_bubble_coral_slab": "Dead Bubble Coral Slab",
+      "block.all_the_blocks_for_everything.black_stained_glass_fence": "Black Stained Glass Fence",
+      "block.all_the_blocks_for_everything.black_wool_fence_gate": "Black Wool Fence Gate",
       "block.all_the_blocks_for_everything.basalt_pressure_plate": "Basalt Pressure Plate",
       "block.all_the_blocks_for_everything.fire_coral_pressure_plate": "Fire Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.black_glazed_terracotta_fence_gate": "Black Glazed Terracotta Fence Gate",
       "block.all_the_blocks_for_everything.bedrock_fence": "Bedrock Fence",
+      "block.all_the_blocks_for_everything.black_glazed_terracotta_stairs": "Black Glazed Terracotta Stairs",
+      "block.all_the_blocks_for_everything.black_terracotta_button": "Black Terracotta Button",
       "block.all_the_blocks_for_everything.basalt_slab": "Basalt Slab",
       "block.all_the_blocks_for_everything.basalt_fence_gate": "Basalt Fence Gate",
       "block.all_the_blocks_for_everything.dirt_slab": "Grass Slab",
       "block.all_the_blocks_for_everything.fire_coral_button": "Fire Coral Button",
       "block.all_the_blocks_for_everything.diamonda_pressure_plate": "Diamond Pressure Plate",
       "block.all_the_blocks_for_everything.brain_coral_fence_gate": "Brain Coral Fence Gate",
+      "block.all_the_blocks_for_everything.black_stained_glass_button": "Black Stained Glass Button",
+      "block.all_the_blocks_for_everything.black_stained_glass_fence_gate": "Black Stained Glass Fence Gate",
+      "block.all_the_blocks_for_everything.blackstone_fence": "Blackstone Fence",
       "block.all_the_blocks_for_everything.dirt_slab_1": "Dirt Slab",
       "block.all_the_blocks_for_everything.tube_coral_slab": "Tube Coral Slab",
       "block.all_the_blocks_for_everything.dead_bubble_coral_pressure_plate": "Dead Bubble Coral Pressure Plate",
       "block.all_the_blocks_for_everything.bone_button": "Bone Button",
+      "block.all_the_blocks_for_everything.blackstone_fence_gate": "Blackstone Fence Gate",
       "block.all_the_blocks_for_everything.tube_coral_button": "Tube Coral Button",
+      "block.all_the_blocks_for_everything.black_glazed_terracotta_slab": "Black Glazed Terracotta Slab",
       "block.all_the_blocks_for_everything.ancient_debris_pressure_plate": "Ancient Debris Pressure Plate",
       "block.all_the_blocks_for_everything.ancient_debris_fence_gate": "Ancient Debris Fence Gate",
       "block.all_the_blocks_for_everything.bubble_coral_fence_gate": "Bubble Coral Fence Gate",
@@ -2011,17 +2830,30 @@
       "block.all_the_blocks_for_everything.dead_horn_coral_stairs": "Dead Horn Coral Stairs",
       "block.all_the_blocks_for_everything.bedrock_pressure_plate": "Bedrock Pressure Plate",
       "block.all_the_blocks_for_everything.dead_fire_coral_pressure_plate": "Dead Fire Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.black_wool_button": "Black Wool Button",
       "block.all_the_blocks_for_everything.brain_coral_fence": "Brain Coral Fence",
       "block.all_the_blocks_for_everything.dirt_fence_gate": "Dirt Fence Gate",
       "block.all_the_blocks_for_everything.irona_stairs": "Iron Stairs",
       "block.all_the_blocks_for_everything.diamonda_fence_gate": "Diamond Fence Gate",
+      "block.all_the_blocks_for_everything.black_concrete_powder_pressure_plate": "Black Concrete Powder Pressure Plate",
+      "block.all_the_blocks_for_everything.black_terracotta_stairs": "Black Terracotta Stairs",
+      "block.all_the_blocks_for_everything.black_wool_slab": "Black Wool Slab",
       "block.all_the_blocks_for_everything.dead_bubble_coral_stairs": "Dead Bubble Coral Stairs",
       "block.all_the_blocks_for_everything.horn_coral_pressure_plate": "HornCoral Pressure Plate",
+      "block.all_the_blocks_for_everything.black_concrete_slab": "Black Concrete Slab",
       "block.all_the_blocks_for_everything.golda_button": "Gold Button",
       "block.all_the_blocks_for_everything.fire_coral_slab": "Fire Coral Slab",
       "block.all_the_blocks_for_everything.golda_stairs": "Gold Stairs",
+      "block.all_the_blocks_for_everything.black_glazed_terracotta_fence": "Black Glazed Terracotta Fence",
+      "block.all_the_blocks_for_everything.black_stained_glass_stairs": "Black Stained Glass Stairs",
+      "block.all_the_blocks_for_everything.black_wool_fence": "Black Wool Fence",
+      "block.all_the_blocks_for_everything.black_wool_pressure_plate": "Black Wool Pressure Plate",
+      "block.all_the_blocks_for_everything.cactus_slab": "Cactus Slab",
       "block.all_the_blocks_for_everything.brain_coral_pressure_plate": "Brain Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.black_glazed_terracotta_button": "Black Glazed Terracotta Button",
+      "block.all_the_blocks_for_everything.black_terracotta_slab": "Black Terracotta Slab",
       "block.all_the_blocks_for_everything.dead_brain_coral_pressure_plate": "Dead Brain Coral Pressure Plate",
+      "block.all_the_blocks_for_everything.blackstone_pressure_plate": "Blackstone Pressure Plate",
       "block.all_the_blocks_for_everything.andesite_fence_gate": "Andesite Fence Gate",
       "block.all_the_blocks_for_everything.emeralda_slab": "Emerald Slab",
       "block.all_the_blocks_for_everything.dead_fire_coral_fence": "Dead Fire Coral Fence",
@@ -2036,9 +2868,9 @@
     "modid": "all_the_blocks_for_everything",
     "modName": "All the blocks for everything",
     "version": "1.0.0",
-    "author": "USER, MCreator",
+    "author": "ModdyCraft, MCreator",
     "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -2046,6 +2878,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "mc.moddycraft.alltheblocksforeverything",
     "lockBaseModFiles": false
   },

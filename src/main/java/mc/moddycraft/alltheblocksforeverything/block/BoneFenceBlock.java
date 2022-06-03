@@ -2,7 +2,6 @@
 package mc.moddycraft.alltheblocksforeverything.block;
 
 import net.minecraftforge.registries.ObjectHolder;
-import net.minecraftforge.common.ToolType;
 
 import net.minecraft.world.IBlockReader;
 import net.minecraft.util.math.BlockPos;
@@ -30,7 +29,7 @@ public class BoneFenceBlock extends AllTheBlocksForEverythingModElements.ModElem
 	public static final Block block = null;
 
 	public BoneFenceBlock(AllTheBlocksForEverythingModElements instance) {
-		super(instance, 20);
+		super(instance, 34);
 	}
 
 	@Override
@@ -41,8 +40,7 @@ public class BoneFenceBlock extends AllTheBlocksForEverythingModElements.ModElem
 
 	public static class CustomBlock extends FenceBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.CLAY).sound(SoundType.BONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-					.harvestTool(ToolType.PICKAXE).setRequiresTool());
+			super(Block.Properties.create(Material.CLAY).sound(SoundType.BONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 			setRegistryName("bone_fence");
 		}
 
@@ -55,7 +53,7 @@ public class BoneFenceBlock extends AllTheBlocksForEverythingModElements.ModElem
 
 		@Override
 		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
-			return 5;
+			return 25;
 		}
 
 		@Override
